@@ -1,0 +1,11 @@
+torch==2.8.0
+transformers==5.7.0
+accelerate==1.13.0
+peft==0.19.1
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.13.1
+scikit-learn==1.6.1
+mne==1.8.0
+matplotlib==3.9.4
+Pillow==11.3.0
